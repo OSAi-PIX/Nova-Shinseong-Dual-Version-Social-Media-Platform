@@ -28,7 +28,6 @@ N O V A   /   신 성 (Shinseong)
 - 🎮 **Gamification**: Missions, streaks, leaderboards, team challenges, seasonal quests.
 - 🌐 **Localization**: Adaptive translation, Hangul-optimized typography, cultural skins, holiday packs.
 - 🛡️ **Safety**: Context-aware moderation, respectful defaults, anonymous reporting, pre-post warning nudges.
-- 🕶️ **18+ Mode**: Strictly gated, opt-in adult content visibility for verified users only.
 - 🕹️ **VR/AR Spaces**: Micro-worlds, gesture-based communication, mixed-reality overlays, fandom concerts.
 
 ---
